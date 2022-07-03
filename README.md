@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @virus00145
 - 👀 I’m interested in hacking 
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I'm finding someone to teach me more💞
 
 
 <!---
